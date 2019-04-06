@@ -1,0 +1,86 @@
+baseURL = "/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = ""
+theme = "meghna-hugo"
+summaryLength = 10
+publishDir = "docs"
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Partners"
+    URL = "blog"
+    weight = 7
+
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/coffeeBeans.jpg"
+    heading = "Vault"
+    content= "Coeur d'Alene's Best Coffee Shop"
+    btn = true
+    btnText="Explore Us"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Coeur d' Alene, Idaho"
+    content = ""
+    height = 400
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Customers"
+        icon = "tf-ion-android-happy"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Tea"
+        icon = "tf-ion-coffee"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+
+    # footer
+    [params.footer]
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/Vault-Coffee-590419364404381/"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "https://www.yelp.com/biz/vault-coffee-coeur-d-alene-2?osq=vault"

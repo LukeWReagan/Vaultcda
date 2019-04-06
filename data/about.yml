@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : Store Hours
+  content : 6am-6pm Mon-Sun
+
+- icon : tf-strategy
+  title : Location
+  content : 324 Sherman Ave, Coeur d'Alene, ID
+
+- icon : tf-anchor2
+  title : Phone Number
+  content : 208-966-4193
