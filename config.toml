@@ -1,10 +1,9 @@
-baseURL = "https://lukewreagan.github.io/lukewreagan/"
+baseURL = "https://lukewreagan.github.io/vaultcda/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = ""
 theme = "meghna-hugo"
 summaryLength = 10
-publishDir = "docs"
 
 [taxonomies]
   author = "author"
