@@ -29,7 +29,7 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Vault"
+description = "VAULT"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -39,7 +39,7 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/coffeeBeans.jpg"
-    heading = "Vault"
+    heading = "VAULT"
     content= ""
     btn = true
     btnText="Explore Us"
@@ -57,20 +57,21 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Customers"
-        icon = "tf-ion-android-happy"
-
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Locally Roasted Expresso and Coffee"
         icon = "tf-ion-coffee"
 
         [[params.counter.counterItem]]
-        title = "Cups of Tea"
+        title = "Breakfest and Lunch Items Made in House"
+        icon = "tf-ion-ios-pie-outline"
+
+
+        [[params.counter.counterItem]]
+        title = "Excetional Quality Loose Leaf Tea"
         icon = "tf-ion-coffee"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
+        title = "Locally Made and Sourced Merchandise"
+        icon = "tf-gift2"
 
     # footer
     [params.footer]

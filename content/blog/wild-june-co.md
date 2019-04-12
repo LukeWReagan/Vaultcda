@@ -6,5 +6,7 @@ image: images/blog/wjc.jpg
 description : "This is meta description"
 ---
 
-
-Body care can be simple, honest, and natural while still being FUN! Wild June Co. enjoy's making fresh products every day, and believe that simple, skin-nourishing ingredients are best. They use lots of shea butter, coconut oil, olive oil, beeswax and tallow in their products. These wonderful ingredients have proven to be so amazing for skin, and they stand by them 100%.
+Body care can be simple, honest, and natural while still being FUN!
+Wild June Co. enjoys making fresh locally sourced body care products 
+every day, and believe that simple, skin-nourishing ingredients are best. 
+They use lots of shea butter, coconut oil, olive oil, beeswax and tallow in their products.

@@ -1,5 +1,5 @@
 ---
-title: "Doma"
+title: "DOMA"
 date: 2019-04-05T14:51:12+06:00
 author: 
 image: images/blog/doma.jpg
