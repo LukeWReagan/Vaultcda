@@ -57,21 +57,21 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Locally Roasted Expresso and Coffee"
+        title = "Locally Roasted Espresso and Coffee"
         icon = "tf-ion-coffee"
 
         [[params.counter.counterItem]]
-        title = "Breakfest and Lunch Items Made in House"
+        title = "Breakfast and Lunch Items Made in House"
         icon = "tf-ion-ios-pie-outline"
 
 
         [[params.counter.counterItem]]
-        title = "Excetional Quality Loose Leaf Tea"
+        title = "Exceptional Quality Loose Leaf Tea"
         icon = "tf-ion-coffee"
 
         [[params.counter.counterItem]]
         title = "Locally Made and Sourced Merchandise"
-        icon = "tf-gift2"
+        icon = "tf-ion-ios-cart-outline"
 
     # footer
     [params.footer]
