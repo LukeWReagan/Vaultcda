@@ -25,6 +25,7 @@ summaryLength = 10
 
 # Site params
 [params]
+inst_access = "1442827464"
 home= "Home"
 logo = "images/vaultLogo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -72,6 +73,7 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Locally Made and Sourced Merchandise"
         icon = "tf-ion-ios-cart-outline"
+
 
     # footer
     [params.footer]
